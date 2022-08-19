@@ -5,3 +5,5 @@ Test Scenario
 3.Profile Picture
 4.Status 
 5.Including privacy setting
+6.Adding video call
+7.adding audio call
