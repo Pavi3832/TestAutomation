@@ -4,3 +4,4 @@ Test Scenario
 2.Hide the status from specific person
 3.Profile Picture
 4.Status 
+5.Including privacy setting
